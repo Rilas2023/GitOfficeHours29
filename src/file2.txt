@@ -1,7 +1,5 @@
 mno
 
-pqr
-
-stu
+P Q R S T U
 
 vwxyz
